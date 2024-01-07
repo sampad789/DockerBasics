@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-Vite-black?style=for-the-badge&logoColor=white&logo=vite&color=646CFF" alt="vite" />
   </div>
 
-  <h3 align="center">Docker Crash Course</h3>
+  <h3 align="center">Docker Learning Project</h3>
 
    <div align="center">
      Learn how to Dockerize various applications step by step.
@@ -23,9 +23,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-6. 📦 [Starter Kit](#starter-kits)
-7. 🕸️ [Code Snippets](#code-snippets)
-8. 🚀 [More](#more)
+
 
 <br />
 
